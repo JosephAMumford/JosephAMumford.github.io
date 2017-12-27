@@ -1,0 +1,44 @@
+* {
+    /*outline: 1px solid magenta;*/
+    padding: 0px;
+    margin: 0px;
+    font-family: calibri, sans-serif;
+}
+
+#wrapper {
+    width: 1000px;
+    margin: 0px auto;
+    background-color: grey;
+}
+
+#header {
+    height: 100px;
+    background-color: green;
+    text-align: center;
+}
+
+#navbar {
+    background-color: skyblue;
+    border-top: 2px solid rgb(112, 171, 194);
+    border-bottom: 2px solid rgb(112, 171, 194);
+    text-align: center;
+}
+    .navbar-button {
+        display: inline-block;
+        padding: 0px 10px;
+        background-color: skyblue;
+        font-size: 16pt;
+        text-decoration: none;
+        color: white;
+
+    }
+
+#main-content {
+    background-color: goldenrod;
+    height: 5000px;
+}
+
+#footer {
+    background-color: lightcyan;
+    text-align: center;
+}
